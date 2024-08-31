@@ -33,5 +33,6 @@ ViveMuseumDemo is a simple VR demo of a museum created to celebrate the 15th ann
 ## Credits
 
 Developed by Jose L. Dorado (jl.dorado59@uniandes.edu.co,  jl-dorado@hotmail.com). 
+
 Copyright 2022 © Grupo Imagine Uniandes
 https://imagine.uniandes.edu.co
