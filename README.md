@@ -22,7 +22,7 @@ ViveMuseumDemo is a simple VR demo of a museum created to celebrate the 15th ann
 
 4. Download the project code, open the scene 'MainScene.scene' in Unity, and press play. You'll see the museum in your headset.
 
-5. To move in the environment, point to the floor and press the trigger; you will be immediately teleported to the location. To move to the second floor, point above the stairs.
+5. To move in the environment, point to the floor using the Vive Controller and press the trigger; you will be immediately teleported to the location. To move to the second floor, point above the stairs.
 
 6. To get information about an item, simply approach and gaze at the object; a dialog will appear with useful information about it.
 
